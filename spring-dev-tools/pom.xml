@@ -52,6 +52,13 @@
 			<artifactId>spring-boot-starter-actuator</artifactId>
 			<version>4.0.1</version>
 		</dependency>
+
+		<!-- SPRING SECURITY-->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-security</artifactId>
+			<version>4.0.1</version>
+		</dependency>
 	</dependencies>
 
 	<build>
